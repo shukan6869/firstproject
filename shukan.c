@@ -3,5 +3,5 @@
 
 void main()
 {
-	printf("Shuakn is greate");
+	printf("Shuakn is great\n");
 }
